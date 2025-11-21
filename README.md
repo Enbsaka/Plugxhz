@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)" />
+  <img height="150" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"/>
 </div>
 
 
