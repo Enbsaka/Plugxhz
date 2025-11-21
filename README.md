@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="center">Desenvolvedor apaixonado por tecnologia, código limpo e evoluir sempre 🚀</p>
+<p align="center">Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero </p>
 
 <hr>
 
