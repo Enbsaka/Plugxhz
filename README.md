@@ -1,8 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243349804-BWM994NEV97HLY6KGYI4/01d7176e77aebf3b461562899efcf47f.gif?format=750w)" />
 </div>
 
-<h1 align="center">👋 Olá! Eu sou o Enbsaka</h1>
 
 <p align="center">Desenvolvedor apaixonado por tecnologia, código limpo e evoluir sempre 🚀</p>
 
