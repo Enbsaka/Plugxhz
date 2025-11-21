@@ -71,8 +71,23 @@
 ### 🌐 Contato e Redes
 
 <div align="center">
+  <!-- GitHub -->
   <a href="https://github.com/Enbsaka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <img width="12" />
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/enzo.saka/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <img width="12" />
+
+  <!-- Email -->
+  <a href="mailto:enzosakatauskas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
