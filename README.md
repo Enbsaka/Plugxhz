@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="center">Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero </p>
+<h1 align="center">Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero </h1>
 
 <hr>
 
